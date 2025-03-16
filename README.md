@@ -1,15 +1,15 @@
-## Healthcare Claims Analysis Dashboard
+# Healthcare Claims Analysis Dashboard
 
-# **Summary**
+## **Summary**
 In the complex landscape of healthcare processing, this project aims to identify patterns in claim approvals, denials, and provider performance to optimize efficiency and provide actionable insights. Using **synthetic health insurance claims data**, we analyze trends, uncover key insights, and visualize approval rates based on multiple factors, including provider specialties, claim amounts, patient demographics, and geographic distribution.
 
-# **Research Questions**
+## **Research Questions**
 1. How many claims were submitted, approved, denied, and are still pending?
 2. What trends can we observe in the number of claim submissions over time?
 3. How do provider specialties and claim amounts impact approval rates?
 4. Are there regional disparities in claim approvals across different locations?
 
-# **Calculations & Methodology**
+## **Calculations & Methodology**
 
 ### **Approval Rate Calculation**
 ```r
@@ -28,7 +28,7 @@ approval_rate <- approved_claims / total_claims
 - Mapped claim approval rates across the USA using **color gradients** to highlight regional disparities.
 - Bubble sizes represent total claims submitted per location.
 
-# **Inferences from the Dashboard**
+## **Inferences from the Dashboard**
 
 ## **1. Total Claims Breakdown**
 - Out of **4,500** total claims:
@@ -51,7 +51,7 @@ approval_rate <- approved_claims / total_claims
 - Some regions have **notably lower approval rates**, possibly due to stricter claim review processes or higher rejection rates.
 - Locations with **high claim volumes** but **low approval rates** may require further investigation into provider practices and claim quality.
 
-# **Conclusion & Next Steps**
+## **Conclusion & Next Steps**
 This analysis provides a **data-driven approach** to understanding claim processing trends and optimizing approval rates. Insights from the dashboard can help **insurance companies, healthcare providers, and policymakers** make informed decisions.
 
 ### **Next Steps**
