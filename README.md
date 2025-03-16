@@ -1,5 +1,5 @@
 # Healthcare Claims Analysis Dashboard
-
+[View Tableau Dashboard] (https://public.tableau.com/app/profile/swapna.ashish.patel/viz/ClaimsAnalysisDashboard_17420827211120/Dashboard1?publish=yes)
 ## **Summary**
 In the complex landscape of healthcare processing, this project aims to identify patterns in claim approvals, denials, and provider performance to optimize efficiency and provide actionable insights. Using **synthetic health insurance claims data**, we analyze trends, uncover key insights, and visualize approval rates based on multiple factors, including provider specialties, claim amounts, patient demographics, and geographic distribution.
 
@@ -49,7 +49,5 @@ In the complex landscape of healthcare processing, this project aims to identify
 
 ## **Conclusion**
 This analysis provides a **data-driven approach** to understanding claim processing trends and optimizing approval rates. 
-
-Dashboard: https://public.tableau.com/app/profile/swapna.ashish.patel/viz/ClaimsAnalysisDashboard_17420827211120/Dashboard1?publish=yes
 
 Dataset source: https://www.kaggle.com/datasets/abuthahir1998/synthetic-healthcare-claims-dataset
