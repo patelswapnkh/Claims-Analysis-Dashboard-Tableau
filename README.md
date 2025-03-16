@@ -54,6 +54,8 @@ approval_rate <- approved_claims / total_claims
 ## **Conclusion & Next Steps**
 This analysis provides a **data-driven approach** to understanding claim processing trends and optimizing approval rates. Insights from the dashboard can help **insurance companies, healthcare providers, and policymakers** make informed decisions.
 
+Dashboard: https://public.tableau.com/app/profile/swapna.ashish.patel/viz/ClaimsAnalysisDashboard_17420827211120/Dashboard1?publish=yes
+
 ### **Next Steps**
 - Deep dive into **denied claims** to identify common rejection reasons.
 - Further segment claims by **patient demographics (age, income, employment status)** to refine approval models.
